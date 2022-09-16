@@ -1,17 +1,57 @@
-<h1 align="center">Hi 👋, I'm Laércio Bubiak</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<img src="https://user-images.githubusercontent.com/49946934/190826971-8524ae01-e77f-41ca-a075-8a9d56dd29b6.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo laercio">
 
-- 🌱 I’m currently learning **Python, and network. studying for CCNA**
+## Olá👋, me chamo Laércio Bubiak
 
-- 📫 How to reach me **lbubiak@hotmail.com**
+Apaixonado por redes e cybersegurança, hoje trabalho com infraestrutura de redes e servidores Linux e Windows. Hoje estudando para tirar certificação CCNA, ajudando e querendo evoluir a comunidade de segurança, em um breve futuro sonho em ser um excelente devOps 🤭.
 
-<h3 align="left">Connect with me:</h3>
+#### Técnlogias nas quais conheço:
+
 <p align="left">
-<a href="https://twitter.com/bubikazam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bubikazam" height="30" width="40" /></a>
-<a href="https://instagram.com/laercio_mlb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="laercio_mlb" height="30" width="40" /></a>
+  <a>
+    <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
+  </a>
+  
+  <a>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+  
+  <a>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  </a>  
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laerciomlb&show_icons=true&theme=dark&locale=en" alt="laerciomlb" /></p>

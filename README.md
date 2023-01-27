@@ -2,7 +2,7 @@
 
 ## Olá👋, me chamo Laércio Bubiak
 
-Apaixonado por redes e cybersegurança, hoje trabalho com infraestrutura de redes e servidores Linux e Windows. Hoje estudando para tirar certificação CCNA, ajudando e querendo evoluir a comunidade de segurança, em um breve futuro sonho em ser um excelente devOps 🤭.
+Trabalhei por 2 anos na parte de infraestrutura de redes, e estou me colocando agora voltando todo meu conhecimento de infra (Linux, TCP/IP, servidores DHCP, firewall), indo para a área cloud com ênfase em DevOps! Aqui encontrará repositórios de projetos que eu tenho um carinho gigantesco como o Osana!
 
 #### Técnlogias nas quais conheço:
 
@@ -17,9 +17,12 @@ Apaixonado por redes e cybersegurança, hoje trabalho com infraestrutura de rede
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+    <img src="(https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white"/>
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
   </a>
 </p>

@@ -65,7 +65,7 @@
   </a>
 </div>
 <div align="center">
-  <a href=https://github.com/laerciomlb">
+  <a href="https://github.com/laerciomlb">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laerciomlb&theme=react&date_format=j%20M%5B%20Y%5D">
   </a>
 </div>
